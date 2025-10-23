@@ -19,9 +19,9 @@ assets/components/scxcaptchaajaxform/fonts/DejaVuSansMono.ttf
 Вставьте блок капчи в форму (**некэшируемо!**):
 ```html
 [[!ScxCaptchaAjaxForm]]
+```
 Пример с AjaxForm
-html
-Копировать код
+```html
 [[!AjaxForm?
   &snippet=`FormIt`
   &form=`tpl.AjaxForm.example`
@@ -131,7 +131,7 @@ css
 Ответ — строго 5 цифр.
 
 Автор и поддержка
-Разработчик: sait-modx.by
+Разработчик: @saitmodx
 Email: info@sait-modx.by
 
 Если нашли баг/идею улучшения — напишите нам.
