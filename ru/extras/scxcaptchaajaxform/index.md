@@ -47,8 +47,11 @@ assets/components/scxcaptchaajaxform/fonts/DejaVuSansMono.ttf
 
 ### Параметры сниппета
 Параметр	    || Описание	                 ||  По умолчанию
+
 ttl        	  || Время жизни токена (сек.) ||	1200
+
 includeAssets	|| Как подключать CSS/JS:    || head, inline, none	head
+
 render	      || Возвращать ли HTML блока: || 1 — да, 0 — только ассеты	
 
 ## Примеры параметров
